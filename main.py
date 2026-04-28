@@ -103,7 +103,8 @@ with st.sidebar:
 
     st.markdown(
         f'<div style="margin-top:2rem;text-align:center;font-size:0.7rem;color:{TEXT_DIM};">'
-        f'NeuroSeg v2.0 &nbsp;|&nbsp; 2025</div>',
+        f'NeuroSeg v2.0 &nbsp;|&nbsp; 2026</div>',
+        f'by Ayush Singh>',
         unsafe_allow_html=True,
     )
 
