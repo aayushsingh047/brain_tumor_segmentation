@@ -102,11 +102,19 @@ with st.sidebar:
     st.page_link("pages/7_System_Info.py",        label="System Info")
 
     st.markdown(
-        f'<div style="margin-top:2rem;text-align:center;font-size:0.7rem;color:{TEXT_DIM};">'
-        f'NeuroSeg v2.0 &nbsp;|&nbsp; 2026</div>',
-        f'by Ayush Singh>',
-        unsafe_allow_html=True,
-    )
+    """
+    <div style="
+        margin-top:2rem;
+        text-align:center;
+        font-size:0.8rem;
+        color:gray;
+    ">
+        <b>NeuroSeg v2.0</b> | 2026 <br>
+        by <b>Ayush Singh</b>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # Hero banner
 st.markdown(
