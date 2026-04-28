@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Segmentation System
+# 🧠 Brain Tumor Segmentation System Made By Ayush Singh with Neelam Gupta, Final Yr. Project
 
 > AI-powered 3D MRI segmentation using a **3D U-Net** trained on the **BraTS** dataset.
 > Built with PyTorch, MONAI, and Streamlit.
