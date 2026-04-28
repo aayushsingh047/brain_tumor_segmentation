@@ -110,7 +110,7 @@ with st.sidebar:
         color:gray;
     ">
         <b>NeuroSeg v2.0</b> | 2026 <br>
-        by <b>Ayush Singh</b>
+        by <b>Ayush Singh and Neelam Gupta</b>
     </div>
     """,
     unsafe_allow_html=True
